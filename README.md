@@ -44,7 +44,7 @@ A modern note-taking application that enables users to create, edit, update, and
    - Open your MySQL client.
    - Import the provided SQL file:
      ```sql
-     SOURCE path/to/database.sql;
+     NoteMe/sql/notes.sql;
      ```
 4. Configure the database connection:
    - Update the `config.php` file with your database credentials.
